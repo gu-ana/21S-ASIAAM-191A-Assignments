@@ -1,12 +1,6 @@
-## Due Thursday 4/8:
+I used ASIAN_POP and TOTAL_POP. I used those fields to get the percentage of asians living in each county.
+A problem that the dataset could have is I could totally flub the numbers and you wouldn't have known unless you
+go row by row and check my answers(wh0 knows, maybe the information albert gave us was falsified). In terms of graph
+making, if I had made the difference between the graduated values different and accidentally left out the legend/key, 
+then there is nothing to go off of to compare except our brain thinking a color is closer to another.
 
-1.  Calculate a new field using already existing fields in the `CA_Counties_2019.shp` dataset or another dataset of your choosing.
-
-2. Create a geojson named `lab1.geojson` and add it to your repository.
-
-3. Create a new markdown file called `lab1.md` and explain the following:
-   -  What fields you used
-   -  Why you used these fields
-   -  What problems could the data set have
-4. Commit both `lab1.geojson` and `lab1.md` to your repository and push it to GitHub.
-5. Fill out this form so I can associate you with your GitHub repo: [https://forms.gle/J8kebeHEd5xbGaiRA](https://forms.gle/J8kebeHEd5xbGaiRA)
