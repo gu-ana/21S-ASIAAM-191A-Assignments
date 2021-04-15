@@ -29,6 +29,15 @@ html, body {
     background-color: aqua;
 }
 
+.mountain {
+    width: 100%
+}
+
+#Profile {
+    max-width: 50%;
+    max-height: 50%;
+    float: left;
+}
 #map {
     grid-area: map;
     height: 40vh;
