@@ -1,6 +1,7 @@
 html, body {
     background-color: aquamarine;
     padding: 5px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
  }
 
  body {
@@ -9,6 +10,10 @@ html, body {
      grid-template-columns: 1fr;
      grid-template-areas: "header" "main" "map"  "footer";
      justify-content: center;
+ }
+
+ h1 {
+     text-align: center;
  }
 
  header {
